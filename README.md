@@ -20,4 +20,10 @@ The objective of creating this system is to learn and strengthen my knowledge in
 ### 1 - Main
 ![Main Screen](https://github.com/LucasLBB/Register-Series/blob/main/slara/public/images-readme/main.PNG)
 
+### 2 - Register
+![Register Screen](https://github.com/LucasLBB/Register-Series/blob/main/slara/public/images-readme/cad.PNG)
+
+### 3 - View
+![View Screen](https://github.com/LucasLBB/Register-Series/blob/main/slara/public/images-readme/view.PNG)
+
 
