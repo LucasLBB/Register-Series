@@ -17,4 +17,7 @@ The objective of creating this system is to learn and strengthen my knowledge in
 
 ## System Images
 
+### 1 - Main
+![Main Screen](https://github.com/LucasLBB/Controle-Gastos/blob/master/readme-images/main.PNG)
+
 
