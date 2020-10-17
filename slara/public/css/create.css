@@ -38,7 +38,7 @@ h1 {
  }
 
  #form a:hover {
-     color: #000000;
+     color: #4834d4;
      transition: .9s;
  }
 
@@ -47,7 +47,7 @@ h1 {
      align-items: center;
      justify-content: center;
      text-decoration: none;
-     color: #4834d4;
+     color: #130f40;
      font-weight: bold;
  }
   
