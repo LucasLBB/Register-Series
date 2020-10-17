@@ -26,4 +26,21 @@ The objective of creating this system is to learn and strengthen my knowledge in
 ### 3 - View
 ![View Screen](https://github.com/LucasLBB/Register-Series/blob/main/slara/public/images-readme/view.PNG)
 
+## Features
+ 
+   - Register series
+   - View the registered series
+ 
+## Links
+ 
+  - Repository: https://github.com/LucasLBB/Register-Series
+
+ 
+## Author
+ 
+* **Lucas de Lima**: @LucasLBB (https://github.com/LucasLBB)
+ 
+ 
+Please follow github!
+Thanks to visiting me and good coding!
 
