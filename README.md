@@ -1,5 +1,20 @@
-# Register-Series
+# Register Series
 
-Fiz este pequeno projeto para fortalecer meus conhecimentos em Laravel, tecnologia que estou estudando atualmente.
+This project registers series and allows visualization in a table.
+The objective of creating this system is to learn and strengthen my knowledge in Laravel 8.
 
-O projeto consiste em cadastrar e visualizar séries que foram cadastradas.
+## Technologies
+
+* PHP 7.4.8
+* MySql 10.4.14
+* HTML5
+* CSS3
+* Laravel 8
+
+## Services Used
+
+* GitHub
+
+## System Images
+
+
