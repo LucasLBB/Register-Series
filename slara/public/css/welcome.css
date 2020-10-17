@@ -1,0 +1,30 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eb4d4b;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    color: #130f40;
+}
+
+.series {
+    text-align: center;
+    margin-top: 50px;
+    padding: 25px;
+    border: 1px solid #130f40;
+}
+
+.series a{
+    font-size: 3rem;
+    text-decoration: none;
+    color: #130f40;
+}
+
+.series:hover a {
+    color: #4834d4;
+    transition: 0.5s;
+}
+
+
